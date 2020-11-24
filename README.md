@@ -9,3 +9,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 1
 <a href="https://www.hackerrank.com/challenges/30-data-types/problem">Day 1 question</a>
+
+## Day 2
+<a href="https://www.hackerrank.com/challenges/30-operators/problem">Day 2 question</a>
