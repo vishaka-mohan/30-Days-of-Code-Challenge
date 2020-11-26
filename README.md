@@ -15,3 +15,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 3
 <a href="https://www.hackerrank.com/challenges/30-conditional-statements/problem">Day 3 question</a>
+
+## Day 4
+<a href="https://www.hackerrank.com/challenges/30-class-vs-instance/problem">Day 4 question</a>
