@@ -18,3 +18,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 4
 <a href="https://www.hackerrank.com/challenges/30-class-vs-instance/problem">Day 4 question</a>
+
+## Day 5
+<a href="https://www.hackerrank.com/challenges/30-loops/problem">Day 5 question</a>
