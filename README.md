@@ -21,3 +21,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 5
 <a href="https://www.hackerrank.com/challenges/30-loops/problem">Day 5 question</a>
+
+## Day 6
+<a href="https://www.hackerrank.com/challenges/30-review-loop/problem">Day 6 question</a>
