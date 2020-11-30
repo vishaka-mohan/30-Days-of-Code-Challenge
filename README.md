@@ -27,3 +27,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 7
 <a href="https://www.hackerrank.com/challenges/30-arrays/problem">Day 7 question</a>
+
+## Day 8
+<a href="https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem">Day 8 question</a>
