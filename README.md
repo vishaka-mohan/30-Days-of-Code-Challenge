@@ -36,3 +36,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 10
 <a href="https://www.hackerrank.com/challenges/30-binary-numbers/problem">Day 10 question</a>
+
+## Day 11
+<a href="https://www.hackerrank.com/challenges/30-2d-arrays/problem">Day 11 question</a>
