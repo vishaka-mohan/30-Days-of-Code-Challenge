@@ -39,3 +39,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 11
 <a href="https://www.hackerrank.com/challenges/30-2d-arrays/problem">Day 11 question</a>
+
+## Day 12
+<a href="https://www.hackerrank.com/challenges/30-inheritance/problem">Day 12 question</a>
