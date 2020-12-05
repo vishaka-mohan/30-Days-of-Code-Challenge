@@ -42,3 +42,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 12
 <a href="https://www.hackerrank.com/challenges/30-inheritance/problem">Day 12 question</a>
+
+## Day 13
+<a href="https://www.hackerrank.com/challenges/30-abstract-classes/problem">Day 13 question</a>
