@@ -45,3 +45,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 13
 <a href="https://www.hackerrank.com/challenges/30-abstract-classes/problem">Day 13 question</a>
+
+## Day 14
+<a href="https://www.hackerrank.com/challenges/30-scope/problem">Day 14 question</a>
