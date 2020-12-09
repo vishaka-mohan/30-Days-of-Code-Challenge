@@ -54,3 +54,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 16
 <a href="https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem">Day 16 question</a>
+
+## Day 17
+<a href="https://www.hackerrank.com/challenges/30-more-exceptions/problem">Day 17 question</a>
