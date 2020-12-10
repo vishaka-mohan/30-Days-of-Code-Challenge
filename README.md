@@ -57,3 +57,7 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 17
 <a href="https://www.hackerrank.com/challenges/30-more-exceptions/problem">Day 17 question</a>
+
+## Day 18
+<a href="https://www.hackerrank.com/challenges/30-queues-stacks/problem">Day 18 question</a>
+
