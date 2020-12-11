@@ -61,3 +61,5 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 ## Day 18
 <a href="https://www.hackerrank.com/challenges/30-queues-stacks/problem">Day 18 question</a>
 
+## Day 19
+<a href="https://www.hackerrank.com/challenges/30-interfaces/problem">Day 19 question</a>
