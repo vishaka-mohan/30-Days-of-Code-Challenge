@@ -72,3 +72,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 22
 <a href="https://www.hackerrank.com/challenges/30-binary-search-trees/problem">Day 22 question</a>
+
+## Day 23
+<a href="https://www.hackerrank.com/challenges/30-binary-trees/problem">Day 23 question</a>
