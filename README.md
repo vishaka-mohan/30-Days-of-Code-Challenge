@@ -78,3 +78,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 
 ## Day 24
 <a href="https://www.hackerrank.com/challenges/30-linked-list-deletion/problem">Day 24 question</a>
+
+## Day 25
+<a href="https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem">Day 25 question</a>
