@@ -88,3 +88,6 @@ This repository is to keep track of my progress in the 30 Day HackerRank Challen
 ## Day 27
 <a href="https://www.hackerrank.com/challenges/30-testing/problem">Day 27 question</a>
 
+## Day 28
+<a href="https://www.hackerrank.com/challenges/30-regex-patterns/problem">Day 28 question</a>
+
